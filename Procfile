@@ -1,0 +1,1 @@
+worker: python kundelik_bot.py
